@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="80%" style="height: 250px; object-fit: cover;" />
 </p>
-
 # Hi there, I'm Kenaol Bekele 👋
 
 ---
@@ -93,7 +92,6 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic and resp
 ## 📚 Education
 
 ### Wachemo University - Bachelor Degree
-*Year - Year*
 - Major: Software Engineering
 - GPA: 3.6
 
@@ -108,9 +106,3 @@ I'm always open to exciting new projects and collaborations. Feel free to reach 
 ## 📁 Portfolio
 
 Check out my [portfolio](https://portfolio-kenaol.vercel.app/) to see some of the projects I've worked on.
-
----
-
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&s" alt="Footer Banner" width="100%" />
-</p>
