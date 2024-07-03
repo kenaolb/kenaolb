@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="80%" style="height: 250px; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="67%" style="height: 190px; object-fit: cover;" />
 </p>
 
-### Hi there, I'm Kenaol Bekele 👋
+## Hi there, I'm Kenaol Bekele 👋
 
 ---
 
@@ -57,9 +57,6 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic and resp
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/kenaolb">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/kenaolb">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
