@@ -106,4 +106,4 @@ I'm always open to exciting new projects and collaborations. Feel free to reach 
 
 ## 📁 Portfolio
 
-Check out my [portfolio](https://portfolio-kenaol.vercel.app/) to see some of the projects I've worked on.
+Check out my [portfolio](https://portifolio-kenaolb.vercel.app/) to see some of the projects I've worked on.
