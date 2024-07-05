@@ -82,8 +82,8 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic and resp
 ## 💼 Experience
 
 ### Ewenet Communication PLC - Backend Developer
-- Responsibility API Development 
-- Responsibility API Integration and Testing
+- API Development 
+- API Integration and Testing
 
 ---
 
