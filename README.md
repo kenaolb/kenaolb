@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer with a knack for building dynamic and responsive web applications. My expertise lies in both frontend and backend development, making me proficient in creating seamless user experiences and robust server-side functionalities.
+I'm Full-Stack Developer with a knack for building dynamic and responsive web applications. My expertise lies in both frontend and backend development, making me proficient in creating seamless user experiences and robust server-side functionalities.
 
 ---
 
